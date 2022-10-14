@@ -1,0 +1,15 @@
+{
+  "name": "diagnosx-aws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breeona Day",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1232.0",
+    "uuid": "^9.0.0"
+  }
+}
